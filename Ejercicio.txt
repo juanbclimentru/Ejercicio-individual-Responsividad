@@ -1,0 +1,9 @@
+Lea el material mencionado y responda las siguientes consignas:   
+
+ 
+
+Cree la estructura de una web para una empresa de desarrollo de software.   
+
+Realizar un menú con HTML + CSS (sin frameworks). Dicho menú debe verse horizontal y debe ajustarse a distintos tamaños de pantalla para verse mejor utilizando media queries (celular, tablet y escritorio).   
+
+Realice un footer con HTML + Bootstrap o tailwinds. El mismo se debe ver horizontal. Corrobore el comportamiento del mismo para distintos tamaños de pantalla y haga las modificaciones necesarias si hay algún error.   
